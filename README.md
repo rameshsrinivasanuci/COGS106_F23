@@ -25,7 +25,7 @@ https://numpy.org/doc/stable/user/numpy-for-matlab-users.html
 
 ## Videos For COGS 106 
 
-### A really nice conceptual introduction to Least Squares Fitting 
+### 10/5: A really nice conceptual introduction to Least Squares Fitting 
 
 https://www.youtube.com/watch?v=S0ptaAXNxBU
 
