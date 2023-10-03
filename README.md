@@ -1,7 +1,4 @@
 # COGS106_F23 at UCI 
-## Course Materials for COGS106 
-
-### ***PYTHON REVIEW*** 
 
 ## Scientific Python
 
@@ -16,13 +13,15 @@
 - Scientific Python (Signal Processing and Statistics) `scipy`  https://scipy.org/
 - Machine Learning `scikit-learn` https://scikit-learn.org/stable/
 
-### **Link to course materials (Lectures) for COGS 14P** 
+### **PYTHON REVIEW: Link to course materials (Lectures) for COGS 14P** 
 
 https://github.com/rameshsrinivasanuci/COGS14P_S23
 
 ### **Numpy for MATLAB Users**
 
 https://numpy.org/doc/stable/user/numpy-for-matlab-users.html
+
+## ** Course Materials for COGS106 ** 
 
 ## Videos For COGS 106 
 
