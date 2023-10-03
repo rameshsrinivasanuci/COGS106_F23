@@ -21,7 +21,7 @@ https://github.com/rameshsrinivasanuci/COGS14P_S23
 
 https://numpy.org/doc/stable/user/numpy-for-matlab-users.html
 
-## ** Course Materials for COGS106 ** 
+## **Course Materials for COGS106** 
 
 ## Videos For COGS 106 
 
