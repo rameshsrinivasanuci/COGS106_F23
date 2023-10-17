@@ -1,5 +1,13 @@
 # COGS106_F23 at UCI 
 
+## YOUTUBE LINK FOR CLASS LECTURES
+
+https://www.youtube.com/playlist?list=PLYm0Y925CmSyUDGPJc1JX097AV0JKt5rp
+
+## YOUTUBE LINK FOR COGS/PSYCH 14P LECTURES 
+
+https://www.youtube.com/playlist?list=PLYm0Y925CmSzijXpQLKK2zPSo4rbLvZlv
+
 ## Scientific Python
 
 ### Python has a large number of tools available for doing data science, sometimes referred to as 'scientific Python'. 
