@@ -51,6 +51,10 @@ https://www.kaggle.com/datasets/rajeevw/ufcdata
 
 https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
 
+### Apple App Store Data
+
+https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps/data
+
 ### Pet Adoption Time
 
 https://www.kaggle.com/competitions/petfinder-adoption-prediction/data
@@ -59,9 +63,6 @@ https://www.kaggle.com/competitions/petfinder-adoption-prediction/data
 
 https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
 
-### Apple App Store Data
-
-https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps/data
 
 ### Heart Disease Prediction 
 
