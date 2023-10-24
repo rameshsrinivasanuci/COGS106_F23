@@ -43,6 +43,44 @@ https://www.youtube.com/watch?v=S0ptaAXNxBU
 
 https://www.kaggle.com/datasets
 
-Here's the specific one on UFC fights.  I'm not sure its the best data. It just caught my eye as possibly fun! 
+### **ROBUST** 
+
+### UFC Fight Data 
 
 https://www.kaggle.com/datasets/rajeevw/ufcdata
+
+### Most streamed Spotify songs 
+
+https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
+
+### Apple App Store Data
+
+https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps/data
+
+### Student Dropout: Socioeconomic factors
+
+https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
+
+### Heart Disease Prediction 
+
+https://www.kaggle.com/datasets/thedevastator/predicting-heart-disease-risk-using-clinical-var
+
+https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas
+
+### Global Mental Health Disorders 
+
+https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder/code
+
+### Pet Adoption Time - BAD! 
+
+https://www.kaggle.com/competitions/petfinder-adoption-prediction/data
+
+### **LIVE COMPETITION** - PLAYGROUND SERIES
+
+### Predict Smoker Status 
+
+https://www.kaggle.com/competitions/playground-series-s3e24
+
+
+
+
