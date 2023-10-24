@@ -73,6 +73,10 @@ https://www.kaggle.com/datasets/thedevastator/predicting-heart-disease-risk-usin
 
 https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas
 
+### Global Mental Health Disorders 
+
+https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder/code
+
 ### **LIVE COMPETITION** - PLAYGROUND SERIES
 
 ### Predict Smoker Status 
