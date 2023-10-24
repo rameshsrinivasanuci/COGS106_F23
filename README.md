@@ -43,6 +43,20 @@ https://www.youtube.com/watch?v=S0ptaAXNxBU
 
 https://www.kaggle.com/datasets
 
-Here's the specific one on UFC fights.  I'm not sure its the best data. It just caught my eye as possibly fun! 
+### UFC Fight Data 
 
 https://www.kaggle.com/datasets/rajeevw/ufcdata
+
+### Most streamed Spotify songs 
+
+https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
+
+### Pet Adoption Time
+
+
+
+### Apple  
+
+### Heart Disease Prediction 
+
+https://www.kaggle.com/datasets/thedevastator/predicting-heart-disease-risk-using-clinical-var/code
