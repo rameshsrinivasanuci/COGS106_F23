@@ -57,12 +57,6 @@ https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
 
 https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps/data
 
-### **LESS ROBUST**
-
-### Pet Adoption Time
-
-https://www.kaggle.com/competitions/petfinder-adoption-prediction/data
-
 ### Student Dropout: Socioeconomic factors
 
 https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
@@ -76,6 +70,10 @@ https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiov
 ### Global Mental Health Disorders 
 
 https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder/code
+
+### Pet Adoption Time - BAD! 
+
+https://www.kaggle.com/competitions/petfinder-adoption-prediction/data
 
 ### **LIVE COMPETITION** - PLAYGROUND SERIES
 
