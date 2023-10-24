@@ -53,10 +53,20 @@ https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
 
 ### Pet Adoption Time
 
+https://www.kaggle.com/competitions/petfinder-adoption-prediction/data
 
+### Student Dropout: Socioeconomic factors
 
-### Apple  
+https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
+
+### Apple App Store Data
+
+https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps/data
 
 ### Heart Disease Prediction 
 
-https://www.kaggle.com/datasets/thedevastator/predicting-heart-disease-risk-using-clinical-var/code
+https://www.kaggle.com/datasets/thedevastator/predicting-heart-disease-risk-using-clinical-var
+
+https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas
+
+
