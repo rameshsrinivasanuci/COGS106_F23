@@ -43,6 +43,8 @@ https://www.youtube.com/watch?v=S0ptaAXNxBU
 
 https://www.kaggle.com/datasets
 
+### **ROBUST** 
+
 ### UFC Fight Data 
 
 https://www.kaggle.com/datasets/rajeevw/ufcdata
@@ -55,6 +57,8 @@ https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
 
 https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps/data
 
+### **LESS ROBUST**
+
 ### Pet Adoption Time
 
 https://www.kaggle.com/competitions/petfinder-adoption-prediction/data
@@ -63,11 +67,18 @@ https://www.kaggle.com/competitions/petfinder-adoption-prediction/data
 
 https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
 
-
 ### Heart Disease Prediction 
 
 https://www.kaggle.com/datasets/thedevastator/predicting-heart-disease-risk-using-clinical-var
 
 https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas
+
+### **LIVE COMPETITION** - PLAYGROUND SERIES
+
+### Predict Smoker Status 
+
+https://www.kaggle.com/competitions/playground-series-s3e24
+
+
 
 
