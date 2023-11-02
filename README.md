@@ -63,8 +63,6 @@ https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-stu
 
 ### Heart Disease Prediction 
 
-https://www.kaggle.com/datasets/thedevastator/predicting-heart-disease-risk-using-clinical-var
-
 https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas
 
 ### Global Mental Health Disorders 
