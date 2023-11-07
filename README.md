@@ -61,10 +61,6 @@ https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps/data
 
 https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
 
-### Heart Disease Prediction 
-
-https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas
-
 ### Global Mental Health Disorders 
 
 https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder/code
@@ -76,6 +72,12 @@ https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data
 ### NBA Data 
 
 https://www.kaggle.com/datasets/nathanlauga/nba-games
+
+### Might be too simple
+
+### Heart Disease Prediction 
+
+https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas
 
 ### Pet Adoption Time - BAD! 
 
