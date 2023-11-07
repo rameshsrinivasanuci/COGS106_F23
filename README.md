@@ -73,6 +73,10 @@ https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data
 
 https://www.kaggle.com/datasets/nathanlauga/nba-games
 
+### Fruit 360
+
+https://www.kaggle.com/datasets/moltean/fruits
+
 ### Might be too simple
 
 ### Heart Disease Prediction 
