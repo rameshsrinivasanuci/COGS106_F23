@@ -69,6 +69,10 @@ https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiov
 
 https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder/code
 
+### Student Alcohol Consumption
+
+https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data
+
 ### Pet Adoption Time - BAD! 
 
 https://www.kaggle.com/competitions/petfinder-adoption-prediction/data
