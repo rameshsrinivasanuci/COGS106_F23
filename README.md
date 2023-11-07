@@ -73,6 +73,10 @@ https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-he
 
 https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data
 
+### NBA Data 
+
+https://www.kaggle.com/datasets/nathanlauga/nba-games
+
 ### Pet Adoption Time - BAD! 
 
 https://www.kaggle.com/competitions/petfinder-adoption-prediction/data
