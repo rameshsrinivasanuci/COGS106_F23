@@ -77,6 +77,10 @@ https://www.kaggle.com/datasets/nathanlauga/nba-games
 
 https://www.kaggle.com/datasets/moltean/fruits
 
+### London Faces 
+
+https://figshare.com/articles/dataset/Face_Research_Lab_London_Set/5047666?file=8541955
+
 ### Might be too simple
 
 ### Heart Disease Prediction 
